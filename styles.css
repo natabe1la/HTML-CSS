@@ -1,0 +1,59 @@
+
+
+.pfp{
+    width: 120px;
+    border-radius: 200px;
+    background-color: aliceblue;
+}
+
+.profile{
+    margin-left: 2%;
+    position: relative;
+    max-width: 270px;
+    height: 440px;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px rgb(137, 135, 123);
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.profile:hover{
+    background-color: rgba(230, 221, 221, 0.347);
+}
+
+.box{
+    text-align: center;
+    max-width: 230px;
+    padding-top: 0.01rem;
+    padding-bottom: 0.01rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: maroon;
+    background-color: rgba(238, 227, 227, 0.858);
+    border-radius: 20px;
+}
+
+.description{
+    text-align: justify;
+}
+
+.list{
+    text-align: left;
+}
+
+.button{
+    margin: 0;
+    text-align: left;
+    background-color: white;
+    border:2px solid maroon;
+    border-radius: 10px;
+    padding: 5px 82px;
+    cursor: pointer;
+    
+}
+
+.button:hover{
+    background-color: #b1a4a4;
+}
